@@ -26,3 +26,11 @@
 //     const data = res.json();
 //     return data;
 // }
+
+/**
+ * 1. event trigger
+ * 2. state
+ * 3. data load from api
+ * 4. loop throught to display data
+ * 5. why we use key pop
+ */
